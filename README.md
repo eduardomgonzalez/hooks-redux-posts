@@ -1,7 +1,7 @@
 ## Descripción
 
 Proyecto Integrador del curso de ReactJs de la academia **Programa desde tu casa**.
-La aplicación consta de consumir una **[API de Rick & Morty](https://api-unpaz-tutoriales.herokuapp.com/api/tutoriales)**, con ésta generar ciertas cards que sean al estilo posts. Las cards contienen un botón de "leer más", que al hacer click sobre él lleva al detalle de cada post (personaje).
+La aplicación consta de consumir una **[API de Rick & Morty](https://rickandmortyapi.com/)**, con ésta generar ciertas cards que sean al estilo posts. Las cards contienen un botón de "leer más", que al hacer click sobre él lleva al detalle de cada post (personaje).
 Temas vistos: Hooks - Props - Consumo de API's - React-Router - Redux - Material-UI
 
 **Tecnologías y librerías:**
